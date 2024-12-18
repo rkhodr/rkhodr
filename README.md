@@ -10,6 +10,7 @@ I'm a junior studying CS and Stats with vast knowledge of numerous coding langua
 * ✉️  You can contact me at [kjkrafik@gmail.com](mailto:kjkrafik@gmail.com)
 * 🧠  I'm learning Analysis of Algorithms, Computer Systems, Discrete Math, Probability, Databases
 * 🤝  I'm open to collaborating on software projects and statistical research/testing
+*  Check out my [Discrete Mathematics Project](DiscreteMath,.java) as well as my Sudoku Sodoku Solver Project in JAVA
 
 ### Skills
 
