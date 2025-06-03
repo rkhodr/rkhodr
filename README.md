@@ -10,7 +10,7 @@ I'm a junior studying CS and Stats with vast knowledge of numerous coding langua
 * ✉️  You can contact me at [kjkrafik@gmail.com](mailto:kjkrafik@gmail.com), by phone at 781-605-9951, or through my [LinkedIn Profile](https://www.linkedin.com/in/rafik-khodr-225788295/)
 * 🧠  I've learned Algorithms, Data Structures, Database Management, Data analytics, Statistical Analysis, and Computer Systems
 * 🤝  I'm open to collaborating on software projects and statistical research/testing
-*  I've been recently working on my new AI Agent/Fitness Tracker project, check the code here and watch the video showcase.
+*  I've been recently working on my new AI Agent/Fitness Tracker project, check the code [here](https://github.com/rkhodr/Rafik-Khodr-Portfolio.git) and watch the [video showcase](https://drive.google.com/file/d/1-5Ea45aFlJx4TnvP1Rp_Pt4fDHRsJeil/view?usp=drive_link) too.
 *  Check out some of my other projects like my [Discrete Mathematics Project](DiscreteMath,.java) as well as my [Sodoku Solver Project](Sudoku.java) in JAVA
 
 ### Skills
