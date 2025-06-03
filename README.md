@@ -7,10 +7,11 @@ Computer Science and Statistics Major at Boston University
 I'm a junior studying CS and Stats with vast knowledge of numerous coding languages, computer systems, data structures, and algorithms. Along my path, I've also dived into datasets, statistical modelling, and quantitative analysis.
 
 * 🌍  I'm based in Boston, MA
-* ✉️  You can contact me at [kjkrafik@gmail.com](mailto:kjkrafik@gmail.com)
-* 🧠  I'm learning Analysis of Algorithms, Data Structures, Computer Systems, Discrete Math, Probability, Databases
+* ✉️  You can contact me at [kjkrafik@gmail.com](mailto:kjkrafik@gmail.com), by phone at 781-605-9951, or through my [LinkedIn Profile](https://www.linkedin.com/in/rafik-khodr-225788295/)
+* 🧠  I've learned Algorithms, Data Structures, Database Management, Data analytics, Statistical Analysis, and Computer Systems
 * 🤝  I'm open to collaborating on software projects and statistical research/testing
-*  Check out my [Discrete Mathematics Project](DiscreteMath,.java) as well as my [Sodoku Solver Project](Sudoku.java) in JAVA
+*  I've been recently working on my new AI Agent/Fitness Tracker project, check the code here and watch the video showcase.
+*  Check out some of my other projects like my [Discrete Mathematics Project](DiscreteMath,.java) as well as my [Sodoku Solver Project](Sudoku.java) in JAVA
 
 ### Skills
 
