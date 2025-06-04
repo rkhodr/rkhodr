@@ -12,7 +12,7 @@ I'm a junior studying CS and Stats with vast knowledge of numerous coding langua
 * 🤝  I'm open to collaborating on software projects and statistical research/testing
 *  Check out my [portfolio](https://rkhodr.github.io/Rafik-Khodr-Portfolio/) for more information about my life and career.
 *  I've been recently working on my new AI Agent/Fitness Tracker project, check the code [here](https://github.com/rkhodr/FitnessProject.git) and watch the [video showcase](https://drive.google.com/file/d/1-5Ea45aFlJx4TnvP1Rp_Pt4fDHRsJeil/view?usp=drive_link) too.
-*  Check out some of my other projects like my [Discrete Mathematics Project](DiscreteMath,.java) as well as my [Sodoku Solver Project](Sudoku.java) in JAVA
+*  Check out some of my other [projects](https://github.com/rkhodr/javaProjects.git) like my Discrete Mathematics Project as well as my Sodoku Solver Project in JAVA
 
 ### Skills
 
