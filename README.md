@@ -1,18 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafik Khodr
 ===================================================================================================================================
 
-Computer Science and Statistics Major at Boston University
+I'm currently a SWE Intern @ 84.51° and studying Computer Science and Statistics as a Junior at Boston University.
 ----------------------------------------------------------
 
-I'm a junior studying CS and Stats with vast knowledge of numerous coding languages, computer systems, data structures, and algorithms. Along my path, I've also dived into datasets, statistical modelling, and quantitative analysis.
+With a vast amount of experience and knowledge in software engineering, full-stack development, and data management, I've been able to accelerate operations in mulitple start-up companies as an engineering intern and hope to continue my upward trend with any opportunities that may come. Along my path, I've also dived into datasets, statistical modelling, and quantitative analysis.
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [kjkrafik@gmail.com](mailto:kjkrafik@gmail.com), by phone at 781-605-9951, or through my [LinkedIn Profile](https://www.linkedin.com/in/rafik-khodr-225788295/)
-* 🧠  I've learned Algorithms, Data Structures, Database Management, Data analytics, Statistical Analysis, and Computer Systems
-* 🤝  I'm open to collaborating on software projects and statistical research/testing
+* 🧠  I've learned Algorithms, Data Structures, AI, QA Testing, Database Management, Data analytics, Statistical Analysis, and Computer Systems
+* 🤝  I'm open to collaborating on software projects and data management/analysis
 *  Check out my [portfolio](https://rkhodr.github.io/Rafik-Khodr-Portfolio/) for more information about my life and career.
 *  I've been recently working on my new AI Agent/Fitness Tracker project, check the code [here](https://github.com/rkhodr/FitnessProject.git) and watch the [video showcase](https://drive.google.com/file/d/1-5Ea45aFlJx4TnvP1Rp_Pt4fDHRsJeil/view?usp=drive_link) too.
-*  Check out some of my other [projects](https://github.com/rkhodr/javaProjects.git) like my Discrete Mathematics Project as well as my Sodoku Solver Project in JAVA
+*  Check out some of my other [projects](https://github.com/rkhodr/javaProjects.git) like my Discrete Mathematics Project as well as my Sodoku Solver Project, or even my [CivicMatch](https://github.com/rkhodr/CivicMatch.git) project.
 
 ### Skills
 
