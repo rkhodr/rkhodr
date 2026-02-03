@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rafik Khodr
 ===================================================================================================================================
 
-I'm currently a SWE Intern @ 84.51° and studying Computer Science and Statistics as a Junior at Boston University.
+I'm currently a Junior at studying Computer Science and Statistics at Boston University and was previously a SWE Intern @ 84.51° last Fall.
 ----------------------------------------------------------
 
 With a vast amount of experience and knowledge in software engineering, full-stack development, and data management, I've been able to accelerate operations in mulitple start-up companies as an engineering intern and hope to continue my upward trend with any opportunities that may come. Along my path, I've also dived into datasets, statistical modelling, and quantitative analysis.
