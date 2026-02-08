@@ -10,7 +10,7 @@ With a vast amount of experience and knowledge in software engineering, full-sta
 * ✉️  You can contact me at [kjkrafik@gmail.com](mailto:kjkrafik@gmail.com), by phone at 781-605-9951, or through my [LinkedIn Profile](https://www.linkedin.com/in/rafik-khodr-225788295/)
 * 🧠  I've learned Algorithms, Data Structures, AI, QA Testing, Database Management, Data analytics, Statistical Analysis, and Computer Systems
 * 🤝  I'm open to collaborating on software projects and data management/analysis
-*  Check out my [portfolio](https://rkhodr.github.io/Rafik-Khodr-Portfolio/) for more information about my life and career.
+*  Check out my [portfolio](https://rkhodr.github.io/PortfolioWeb/) for more information about my life and career.
 *  I've been recently working on my new AI Agent/Fitness Tracker project, check the code [here](https://github.com/rkhodr/FitnessProject.git) and watch the [video showcase](https://drive.google.com/file/d/1-5Ea45aFlJx4TnvP1Rp_Pt4fDHRsJeil/view?usp=drive_link) too.
 *  Check out some of my other [projects](https://github.com/rkhodr/javaProjects.git) like my Discrete Mathematics Project as well as my Sodoku Solver Project, or even my [CivicMatch](https://github.com/rkhodr/CivicMatch.git) project.
 
